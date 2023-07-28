@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sree! <br/><a href="https://github.com/sreeharshinimutyala">Programmer</a>, <a href="https://www.linkedin.com/in/harshini-mutyala/">Data Analyst</a>
+<h1>Hi, I'm Sree! <br/><a href="https://github.com/sreeharshinimutyala">Data Analyst </a>, <a href="https://www.linkedin.com/in/harshini-mutyala/">Programmer</a>
 
 <h2>👨‍💻 Business Data Analyst, Programmer  Projects:</h2>
 
